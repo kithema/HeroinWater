@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="heronwaterAlbums">
+        <item>ODYSSEY</item>
+        <item>DREAMS MONEY CAN BUY</item>
+        <item>2 DAYS NO LEAN</item>
+        <item>NO COMMERCIAL LYRICS</item>
+        <item>4 MONTHS NO SMOKE</item>
+        <item>4 DAYS AFTER HB</item>
+        <item>Бандитский Петербург</item>
+    </string-array>
+</resources>
